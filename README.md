@@ -1,1 +1,1 @@
-# prova-p1-dsw
+# Repositório destinado a P1 de Desenvolvimento Android
